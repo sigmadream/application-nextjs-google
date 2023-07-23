@@ -18,9 +18,3 @@ $ npx create-next-app@latest --experimental-app
 $ npm install
 $ npm run dev
 ```
-
-## Dev Step-0
-
-- [ ] `global.css` 설정
-- [ ] `*.js`를 `.jsx`로 변경 후 코드 추가
-- [ ] `head.jsx` 추가
